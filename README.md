@@ -14,18 +14,6 @@ O sistema permite cadastrar, consultar, atualizar e remover informações de ani
 Servlets e integração com banco de dados relacional.
 </p>
 
-<h2>🚀 Funcionalidades</h2>
-
-<ul>
-  <li>Cadastro de animais</li>
-  <li>Consulta de todos os animais cadastrados</li>
-  <li>Atualização de informações</li>
-  <li>Exclusão de registros</li>
-  <li>Controle de vacinação</li>
-  <li>Controle de castração</li>
-  <li>Status de adoção</li>
-  <li>Cadastro de contato do responsável</li>
-</ul>
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
 
